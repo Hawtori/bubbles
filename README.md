@@ -1,6 +1,7 @@
 # bubbles
 
-This game is for the Mini Jam 84: bubbles on itch.io.
+This game is for the Mini Jam 84: bubbles on itch.io. \
+Check the game out at: [Bubble Party Rage](https://hawtori.itch.io/bubble-party-rage)
 
 ***
 ## Contributors: 
